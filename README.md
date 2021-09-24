@@ -2,7 +2,7 @@
 
 Université de Neuchâtel, Laboratoire d'Hydrogéologie Stochastique
 
-`Cours:` Mardi  8:15-10:00 
+`Cours:` Mercredi 8:15-10:00 
 
 Ce cours est une introduction à l'analyse de données environnementales et à la modélisation de ces systèmes. Le cours ne donne pas un traitement systématique et en profondeur de chacun des thèmes traités mais cherche plutôt à construire des bases permettant de comprendre suffisamment les méthodes et connaitre leurs existences pour aller plus loin si nécessaire.  
 
