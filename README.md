@@ -10,7 +10,7 @@ Ce cours est une introduction à l'analyse de données environnementales et à l
 ### Enseignants
  - Philippe Renard [philippe.renard@unine.ch](philippe.renard@unine.ch)
 
- - Valentin Dall Alba [valentin.dallalba@unine.ch](valentin.dallalba@unine.ch)
+ - Ludovic Schorpp [ludovic.schorpp@unine.ch](ludovic.schorpp@unine.ch)
 
    
 
